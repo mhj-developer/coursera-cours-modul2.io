@@ -24,7 +24,7 @@ p {
 
 #p1 {
   background-color: #D59898;
-  position: relative;
+  position: absolute;
   top: 0;
   right: 0;
   font-weight: bold;
